@@ -1,0 +1,9 @@
+#raport_body {
+    -webkit-transform: scale(1.0); 
+    -moz-transform: scale(1.0);
+    font-size: 75%
+      } 
+
+.break_page {
+	page-break-before: always;
+}
